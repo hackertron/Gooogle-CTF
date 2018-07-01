@@ -1,2 +1,4 @@
-# Gooogle-CTF
-Google-CTF 2018
+# Gooogle-CTF 2018
+
+For complete detailed writeup visit : https://cryptowriteup.wordpress.com/
+
