@@ -2,5 +2,5 @@
 
 ![logo](https://raw.githubusercontent.com/hackertron/Gooogle-CTF2018/master/ctf_logo.PNG)
 
-For complete detailed writeup visit : https://cryptowriteup.wordpress.com/
-
+## Beginner's Quest
+- [Letter](https://cryptowriteup.wordpress.com/2018/07/01/google-ctf-letter/)
